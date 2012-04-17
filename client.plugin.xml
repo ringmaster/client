@@ -5,7 +5,7 @@
 	<author url="http://asymptomatic.net/">Owen Winkler</author>
 	<version>1.0</version>
 	<url>https://github.com/ringmaster/client/downloads</url>
-	<description><![CDATA[Add a client post type.]]></description>
+	<description><![CDATA[Add a client post type for use with a generic client-facing project management system.]]></description>
 	<copyright>2012</copyright>
 	<guid>dfa2158a-b937-4b17-92c3-2ecc3977daae</guid>
 </pluggable>
