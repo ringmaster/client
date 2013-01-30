@@ -67,6 +67,7 @@ class ClientPlugin extends Plugin
 		if(intval($user->info->client) != 0) {
 			$client = Post::get(array(
 				'id' => $user->info->client,
+				'ignore_permissions' => true
 			));
 		}
 		return $client;
